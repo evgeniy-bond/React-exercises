@@ -1,0 +1,24 @@
+.list-group-item {
+  padding-left: 10px;
+}
+
+.list-group-item span {
+  padding-left: 10px;
+}
+
+.checked {
+  text-decoration: line-through;
+  background-color: #E0E0E0;
+}
+
+.checked:hover {
+  background-color: #E0E0E0;
+}
+
+.done {
+  background-color: #86c2ea;
+}
+
+.done span:nth-child(2) {
+  text-decoration: line-through;
+}
